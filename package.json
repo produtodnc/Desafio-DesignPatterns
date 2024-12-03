@@ -1,0 +1,17 @@
+{
+  "name": "clean-code-solid-js",
+  "description": "Exemplo de projeto usando código limpo e SOLID em JavaScript",
+  "keywords": [],
+  "author": "Luiz Cruz",
+  "type": "module",
+  "license": "ISC",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
